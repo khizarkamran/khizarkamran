@@ -7,15 +7,14 @@ Full-stack engineer and CS student at Brooklyn College (graduating June 2027), b
 ## What I'm Building
 
 ### [AtlasFlow](https://atlasflow.pro) — Shelter Operations SaaS
-A production multi-tenant SaaS platform I designed, built, and shipped solo — now used daily by 19+ staff at a DHS-regulated shelter operator in NYC.
+A production SaaS platform I designed, built, and shipped solo — now used daily by 19+ staff at a DHS-regulated shelter operator in NYC.
 
-- Digitized 56-point DHS compliance inspections with auto-generated audit-ready PDFs
-- Built a compliance engine with weighted scoring, anomaly detection, and a tamper-proof audit trail trusted by HR for disciplinary proceedings
 - Cut staff documentation time by 70% across all roles
-- 3-tier multi-tenant architecture with row-level security across 5 permission levels
-- Actively pitching to additional NYC social service agencies for multi-agency deployment
+- Built a compliance engine trusted by HR for disciplinary proceedings
+- Supports 120+ client families across a multi-tenant system
+- Actively expanding to additional NYC social service agencies
 
-**Stack:** React · JavaScript · TypeScript · PostgreSQL · Supabase · Tailwind CSS · Vercel
+**Stack:** React · TypeScript · JavaScript · PostgreSQL · Supabase · Tailwind CSS · Vercel
 
 ---
 
@@ -51,7 +50,7 @@ A production multi-tenant SaaS platform I designed, built, and shipped solo — 
 - 🎓 B.S. Computer Science · Brooklyn College · Class of 2027
 - 💼 Case Manager · Urban Strategies NY (NYC DHS)
 - 🚀 Expanding AtlasFlow to additional NYC social service agencies
-- 📚 DSA interview prep in Java · targeting SWE internships
+- 📚 DSA prep in Java · targeting SWE internships
 
 ---
 
@@ -59,4 +58,6 @@ A production multi-tenant SaaS platform I designed, built, and shipped solo — 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khizar-kamrankz)
 [![AtlasFlow](https://img.shields.io/badge/AtlasFlow-live-black?style=flat-square)](https://atlasflow.pro)
+[![Email](https://img.shields.io/badge/Email-khizarkamran%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khizarkamran@gmail.com)
+e=flat-square)](https://atlasflow.pro)
 [![Email](https://img.shields.io/badge/Email-khizarkamran%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khizarkamran@gmail.com)
