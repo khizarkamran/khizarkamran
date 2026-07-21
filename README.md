@@ -1,6 +1,6 @@
 # Hey, I'm Khizar 👋
 
-Full-stack engineer and CS student at Brooklyn College (graduating June 2027), based in New York City. I build production software while working full-time as a Case Manager at NYC's Department of Homeless Services.
+A CS student at Brooklyn College (graduating June 2027), based in New York City. I build production software while working full-time as a Case Manager at NYC's Department of Homeless Services.
 
 ---
 
