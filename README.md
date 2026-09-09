@@ -13,7 +13,6 @@ A production SaaS platform I designed, built, and shipped solo — now used dail
 - Built a compliance engine trusted by HR for disciplinary proceedings
 - Supports 120+ client families across a multi-tenant system
 - Actively expanding to additional NYC social service agencies
-- [Note: Private repo due to user data confidentiality]
 
 **Stack:** React · TypeScript · JavaScript · PostgreSQL · Supabase · Tailwind CSS · Vercel
 
