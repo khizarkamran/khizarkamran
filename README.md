@@ -59,4 +59,4 @@ A production SaaS platform I designed, built, and shipped solo — now used dail
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khizar-kamrankz)
 [![AtlasFlow](https://img.shields.io/badge/AtlasFlow-live-black?style=flat-square)](https://atlasflow.pro)
 (https://atlasflow.pro)
-[![Email](https://img.shields.io/badge/Email-khizarkamran%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khizarkamran@gmail.com)
+[![Email](https://img.shields.io/badge/Email-khizarkamran%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khizarkamran9@gmail.com)
